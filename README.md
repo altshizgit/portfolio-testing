@@ -1,7 +1,7 @@
 
   # Portfolio website with animation
 
-  This is a code bundle for Portfolio website with animation. The original project is available at https://www.figma.com/design/kCidjAVEsU4qhYGgfIfqkR/Portfolio-website-with-animation.
+ this is a test.
 
   ## Running the code
 
